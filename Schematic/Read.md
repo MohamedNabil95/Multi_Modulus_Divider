@@ -6,3 +6,9 @@ More details about the flip flop with this keeper circuit: https://www.jstage.js
 
 ## Notes about the Prescaler
 * More details about the Prescaler structure See : https://iopscience.iop.org/article/10.1088/1757-899X/452/4/042120/pdf
+
+## General Notes 
+* All Capacitors in the design are to simulate the parasitics that will come out from layout.
+
+## about MUX 
+* Mux is used to enable 5 or 6 stages accordingly to shift bettwen the modulus range 50-63 (5 stages ) and (64-75) 6 stages .
