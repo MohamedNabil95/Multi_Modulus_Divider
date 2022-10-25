@@ -22,4 +22,15 @@
 
 # Noise Simulations 
 
+* FF -40 Corner
+![FF -40](https://user-images.githubusercontent.com/90795738/197849731-338e4743-510f-48ce-9011-2398e132b4cc.jpg)
 
+* FF 125 Corner 
+![FF 125](https://user-images.githubusercontent.com/90795738/197849831-f63c8e29-2349-42c8-ba14-d7ac99d2ce79.jpg)
+
+* FS 125 Corner 
+
+![FS 125](https://user-images.githubusercontent.com/90795738/197849929-7366ebd6-0ef6-4e1b-8a26-42a0057d723b.jpg)
+
+* Resulsts of all Noise Corners (Flicker and Phase noise )
+![image](https://user-images.githubusercontent.com/90795738/197850117-cccfd749-f1a6-4760-9450-13936b621b19.png)
